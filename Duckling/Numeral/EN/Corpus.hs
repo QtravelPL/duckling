@@ -98,6 +98,7 @@ allExamples = concat
              [ "100,000"
              , "100,000.0"
              , "100000"
+			 , "100 000"
              , "100K"
              , "100k"
              , "one hundred thousand"

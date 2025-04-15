@@ -59,6 +59,12 @@ allExamples = concat
              , "10 dollars"
              , "ten dollars"
              ]
+  , examples (simple Dollar 10000)
+             [ "10k"
+			 , "10000$"
+			 , "10 000 $"
+			 , "10 000,00 $"
+             ]
   , examples (simple Cent 10)
              [ "10 cent"
              , "ten pennies"
